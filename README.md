@@ -1,5 +1,3 @@
 # Price Pred
 
-- Various models will attempt and put skeleton:
-    - ARIMA
-    - VARMA
+ML for price predictions. Basic, using BTC 
