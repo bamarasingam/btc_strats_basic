@@ -1,3 +1,3 @@
 # Price Pred
 
-ML for price predictions. Basic, using BTC 
+Will keep updating 
